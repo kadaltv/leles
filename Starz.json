@@ -1,0 +1,60 @@
+{
+    "starzplay": [
+        {
+            "channel_name": "Abu Dhabi Sports 1 Premium",
+            "mpd_url": "https://sps1.starzplayarabia.com/out/v1/41ff8fde1cd84ed5b30ab8198755356b/index.mpd",
+            "key": "b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42",
+            "kid": null,
+            "country": "AE"
+        },
+        {
+            "channel_name": "Abu Dhabi Sports 2 Premium",
+            "mpd_url": "https://sps2.starzplayarabia.com/out/v1/ff6cef29465f4c3a9b0e8ea5bbf8839f/index.mpd",
+            "key": "ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0",
+            "kid": null,
+            "country": "AE"
+        },
+        {
+            "channel_name": "Criclife 1",
+            "mpd_url": "https://criclive1.starzplayarabia.com/out/v1/1adbc63744e44594a273eb48ec027b65/index.mpd",
+            "key": "a05a54bf469c6040a288477d0082ca65:4344373c32a573e73a42eeab936a98a9",
+            "kid": null,
+            "country": "AE"
+        },
+        {
+            "channel_name": "Criclife 2",
+            "mpd_url": "https://criclive2.starzplayarabia.com/out/v1/1b232653e5254150a60a577cc8db682f/index.mpd",
+            "key": "cf671610fa53cc56b07b1d235169fc81:50ac62719a1205fd08c01e368e27e3d4",
+            "kid": null,
+            "country": "AE"
+        },
+        {
+            "channel_name": "Criclife 3",
+            "mpd_url": "https://cricmax.starzplayarabia.com/out/v1/6a04831479eb46efaaf840eb558371ef/index.mpd",
+            "key": "b6045efd2889ce05f4800e2f7ac0d3ee:abf072f537b8f4872be45f971ba24503",
+            "kid": null,
+            "country": "AE"
+        },
+        {
+            "channel_name": "Fatafeat",
+            "mpd_url": "https://d18mc26i8rrflb.cloudfront.net/out/v1/5e5a44e9bfc74319ad91ddd6cca5ec3b/index.mpd",
+            "key": "ec64f2268e5ae8eb3844ace99ff4d069:6d5ebedf5aa317f3fdd431f21b61c9ef",
+            "kid": null,
+            "country": "AE"
+        },
+        {
+            "channel_name": "Sky News Arabia",
+            "mpd_url": "https://d1b8qsyokqelkb.cloudfront.net/out/v1/d2c4b4e31d714b4ca20df7105f54497d/index.mpd",
+            "key": "ec64f2268e5ae8eb3844ace99ff4d069:6d5ebedf5aa317f3fdd431f21b61c9ef",
+            "kid": null,
+            "country": "AE"
+        },
+        {
+            "channel_name": "StarzPLAY Sports",
+            "mpd_url": "https://sps3.starzplayarabia.com/out/v1/0113008cd9d841739ee64d4418949580/index.mpd",
+            "key": "117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13",
+            "kid": null,
+            "country": "AE"
+        }
+    ]
+}
